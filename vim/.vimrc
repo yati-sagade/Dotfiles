@@ -1,4 +1,5 @@
 " ========== Vim Basic Settings ============="
+colorscheme badwolf
 
 " Pathogen settings.
 filetype off
@@ -242,7 +243,6 @@ endif
 
 set background=dark
 "let g:solarized_termcolors=256
-colorscheme badwolf
 
 
 
